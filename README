@@ -1,0 +1,7 @@
+Virtual adresses are not mapped individually to a physical adress but by 
+blocks called pages.
+
+1 virtual page maps 1 physical frame.
+2 virtuals contiguous pages can map2 non-contiguous physical frames.
+
+Pages are at least 4 KiB. 
